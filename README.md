@@ -1,6 +1,6 @@
 # Alert escalation prediction — complete hackathon project
 
-This project estimates the probability that a synthetic financial-monitoring alert will be escalated. It includes executed feature engineering, model comparison, validation, final trained models, a verified 6,000-row prediction CSV, a research report, and a public EDA website.
+This project estimates the probability that a synthetic financial-monitoring alert will be escalated. It includes executed feature engineering, model comparison, validation, final trained models, a verified 6,000-row prediction CSV, a research report, and a public EDA website: https://huggingface.co/spaces/nano53527/nano-team-escalation
 
 ## Start here
 
